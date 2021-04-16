@@ -1,0 +1,21 @@
+{
+  "name": "testingmapp",
+  "version": "1.0.0",
+  "description": "Exercises with express web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "fullstack",
+    "node"
+  ],
+  "author": "Stefan Forslin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
